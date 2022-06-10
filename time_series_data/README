@@ -1,0 +1,20 @@
+mean_combined.csv contants two data series and mean_combined_series2.csv the third data series. The file contains the following relevant columns
+
+Variant: Name of variant
+Time: Time before induction
+Mean_RFP: Mean RPF signal in population at timepoint
+Mean_GFP: Mean RFP signal in population at timepoint
+Mean_Ratio: Mean ratio in population at timepoint between GFP and RFP
+Mean_SSC: Mean side scattering in population at timepoint
+Mean_FSC: Mean forward scattering in population at timepoint
+sd_RFP:
+sd_GFP:
+sd_Ratio:
+sd_SSC:
+sd_FSC:
+v_RFP:
+v_GFP:
+v_Ratio:
+rv_RFP
+rv_GFP:
+rv_Ratio:
